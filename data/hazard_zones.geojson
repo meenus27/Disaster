@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "hazard": "Flood" },
+      "geometry": { "type": "Polygon",
+        "coordinates": [[[80.25,13.05],[80.28,13.05],[80.28,13.08],[80.25,13.08],[80.25,13.05]]] } },
+    { "type": "Feature", "properties": { "hazard": "Cyclone" },
+      "geometry": { "type": "Polygon",
+        "coordinates": [[[77.58,12.96],[77.62,12.96],[77.62,12.99],[77.58,12.99],[77.58,12.96]]] } },
+    { "type": "Feature", "properties": { "hazard": "Heatwave" },
+      "geometry": { "type": "Polygon",
+        "coordinates": [[[72.86,19.07],[72.89,19.07],[72.89,19.09],[72.86,19.09],[72.86,19.07]]] } },
+    { "type": "Feature", "properties": { "hazard": "Urban flood" },
+      "geometry": { "type": "Polygon",
+        "coordinates": [[[76.93,8.52],[76.96,8.52],[76.96,8.54],[76.93,8.54],[76.93,8.52]]] } },
+    { "type": "Feature", "properties": { "hazard": "Flash flood" },
+      "geometry": { "type": "Polygon",
+        "coordinates": [[[76.94,11.01],[76.98,11.01],[76.98,11.03],[76.94,11.03],[76.94,11.01]]] } }
+  ]
+}

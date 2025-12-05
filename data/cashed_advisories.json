@@ -1,0 +1,6 @@
+{
+  "Low": "Situation is calm. Monitor local weather and stay informed.",
+  "Medium": "Moderate risk detected. Prepare to move to higher ground if conditions worsen.",
+  "High": "High risk: move to the nearest shelter and avoid flood-prone routes.",
+  "Critical": "Critical danger: evacuate immediately following authorities' instructions."
+}
