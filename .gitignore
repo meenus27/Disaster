@@ -1,0 +1,38 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Build & distribution artifacts ---
+build/
+dist/
+*.spec
+
+# --- Streamlit cache ---
+.streamlit/
+
+# --- Logs ---
+*.log
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Environment variables ---
+.env
+.env.*
+
+# --- Jupyter notebooks checkpoints ---
+.ipynb_checkpoints/
+
+# --- VSCode settings ---
+.vscode/
+
+# --- Project-specific ---
+data/local_graph.graphml
